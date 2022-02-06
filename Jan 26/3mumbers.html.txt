@@ -1,0 +1,5 @@
+<html>
+    <body>
+        <script src="3numbers.js"></script>
+    </body>
+</html>
